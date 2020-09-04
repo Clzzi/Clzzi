@@ -32,4 +32,4 @@
 ### - Vue.Js
 ### - Angular.Js
 ### - Css(sass , scss)
-### - 
+### - TypeScript
