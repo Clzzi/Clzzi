@@ -1,4 +1,5 @@
-### Hello
+### Hello I'm MinJae Son
+## 대구소프트웨어고등학교에 다니는 1학년, 웹 개발자가 되기위해 공부합니다.
 
 <!--
 **Clzzi/Clzzi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
