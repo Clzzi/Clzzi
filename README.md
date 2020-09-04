@@ -17,3 +17,12 @@
 ![Clzzi's github stats](https://github-readme-stats.vercel.app/api?username=Clzzi&show_icons=true&theme=cobalt)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Clzzi&layout=compact)
+
+## 🌱 I’m currently learning ..
+### - JavaScript(Vanilla)
+
+## 🔭 I learned ..
+### - Html
+### - Css
+### - C
+### - python
