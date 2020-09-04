@@ -1,4 +1,4 @@
-### Hi there 👋
+### 안녕하세요! 대구소프트웨어고등학교 1학년 손민재입니다
 
 <!--
 **Clzzi/Clzzi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
