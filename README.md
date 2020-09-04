@@ -13,6 +13,6 @@
 -->
 ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%23A379D7&title_bg=%23CB7ED7&icon=&icon_color=%23C09FF5&title=Visit&edge_flat=false)
 
-![Clzzi's github stats](https://github-readme-stats.vercel.app/api?username=Clzzi&count_private=true&show_icons=true&theme=cobalt?username=Clzzi)
+![Clzzi's github stats](https://github-readme-stats.vercel.app/api?username=Clzzi&show_icons=true&theme=cobalt)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Clzzi&layout=compact)
