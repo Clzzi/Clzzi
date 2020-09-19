@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=DGSW%201312%20손민재&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&text=Hi%20there%20👋&fontSize=90)
 ## 대구소프트웨어고등학교에 다니는 1학년, 웹 개발자가 되기위해 공부합니다.
 
 <!--
