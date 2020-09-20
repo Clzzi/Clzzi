@@ -18,11 +18,9 @@
 
 ![Visit](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FClzzi%2Fhit-counter&count_bg=%237B62C3&title_bg=%239D7EDF&icon=electron.svg&icon_color=%23B890DF&title=Visit&edge_flat=false)
 
-<span>
-  [Clzzi's github stats](https://github-readme-stats.vercel.app/api?username=Clzzi&show_icons=true&theme=cobalt)
-  [Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Clzzi&layout=compact)
-</span>
-
+![Clzzi's github stats](https://github-readme-stats.vercel.app/api?username=Clzzi&show_icons=true&theme=cobalt)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Clzzi&layout=compact)
+  
 ## 🔭 I learned ..
 ### - Html
 ### - Css
