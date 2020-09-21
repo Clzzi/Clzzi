@@ -1,5 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&text=Hi%20there%20👋&fontSize=90)
-### | 💜 DGSW 1312 손민재 |
+## | 💜 DGSW 1312 손민재 |
 ## 대구소프트웨어고등학교에 다니는 1학년, 웹 개발자가 되기위해 공부합니다.
 <!--
 **Clzzi/Clzzi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
