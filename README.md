@@ -28,8 +28,8 @@
 ### - python
 
 ## ⚡ I want to learn about ..
-### - React.Js
 ### - Vue.Js
+### - React.Js
 ### - Angular.Js
 ### - Css(sass , scss)
 ### - TypeScript
