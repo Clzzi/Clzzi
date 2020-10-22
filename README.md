@@ -12,8 +12,7 @@
 - ⚡ Fun fact: ...
 -->
 
-## 🌱 I’m currently learning 
-###  - "React.Js"
+## 🌱 I’m currently learning - "React.Js"
 
 ![Visit](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FClzzi%2Fhit-counter&count_bg=%237B62C3&title_bg=%239D7EDF&icon=electron.svg&icon_color=%23B890DF&title=Visit&edge_flat=false)
 
