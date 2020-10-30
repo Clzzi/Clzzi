@@ -21,8 +21,8 @@
   
 ## 🔭 I learned ..
 ### - Html
-### - Css
 ### - C
+### - Css
 ### - python
 ### - Vanilla JavaScipt
 
