@@ -23,7 +23,7 @@
 ### - Html
 ### - C
 ### - Css
-### - python
+### - Python
 ### - Vanilla JavaScipt
 
 ## ⚡ I want to learn about ..
