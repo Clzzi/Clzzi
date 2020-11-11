@@ -21,14 +21,13 @@
   
 ## 🔭 I learned ..
 ### - Html
-### - C
 ### - Css
-### - Python
+### - C
 ### - Vanilla JavaScipt
 
 ## ⚡ I want to learn about ..
 ### - Vue.Js
 ### - Angular.Js
-### - Css(sass , scss)
+### - Css(sass)
 ### - TypeScript
 ![footer](https://capsule-render.vercel.app/api?section=footer)
