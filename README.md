@@ -1,5 +1,5 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&text=DGSW%201312%20👋&fontSize=90)
-## 대구소프트웨어고등학교에 다니는 1학년, 웹 풀스택이 되기위해 공부합니다.
+![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&text=Clzzi%20👋&fontSize=90)
+<h2 align=center>I want to be WEB dev</h2>
 <!--
 **Clzzi/Clzzi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 - 🔭 I’m currently working on ...
@@ -14,7 +14,7 @@
 
 ## 🌱 I’m currently learning - "React.Js"
 
-![Visit](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FClzzi%2Fhit-counter&count_bg=%237B62C3&title_bg=%239D7EDF&icon=electron.svg&icon_color=%23B890DF&title=Visit&edge_flat=false)
+![Visit](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FClzzi%2Fhit-counter&count_bg=%237B62C3&title_bg=%239D7EDF&icon=electron.svg&icon_color=%23B890DF&title=Visit&edge_flat=false&align=center)
 
 ![Clzzi's github stats](https://github-readme-stats.vercel.app/api?username=Clzzi&show_icons=true&theme=cobalt)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Clzzi&layout=compact)
