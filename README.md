@@ -15,7 +15,7 @@
 ### - C
 ### - Vanilla JavaScipt
 
-## ⚡ I want to learn about ..
+## ⚡ I want to learn about ...
 ### - Vue.Js
 ### - Angular.Js
 ### - Css(sass)
