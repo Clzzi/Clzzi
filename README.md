@@ -7,7 +7,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Clzzi&layout=compact)
 
 
-## 🌱 I’m currently learning - "React.Js"
+## 🌱 I’m currently learning - "JavaScript(Deep)"
 
 ## 🔭 I learned ..
 ### - Html
