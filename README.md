@@ -7,7 +7,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Clzzi&layout=compact)
 
 
-## 🌱 I’m currently learning - "JavaScript(Deep)"
+## 🌱 I’m currently learning - "React.js"
 
 ## 🔭 I learned ..
 ### - Html
@@ -17,7 +17,7 @@
 
 ## ⚡ I want to learn about ...
 ### - Vue.Js
-### - Angular.Js
+### - Node.js
 ### - Css(sass)
 ### - TypeScript
 
