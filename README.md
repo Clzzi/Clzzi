@@ -1,7 +1,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&text=Clzzi%20👋&fontSize=90)
 
-<h2 align=center>I want to be WEB dev</h2>
+<h2 align=center>I want to be  WEB dev</h2>
 
 ![Clzzi's github stats](https://github-readme-stats.vercel.app/api?username=Clzzi&show_icons=true&theme=cobalt)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Clzzi&layout=compact)
