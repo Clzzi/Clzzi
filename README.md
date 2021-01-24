@@ -1,25 +1,10 @@
+![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=Clzzi&fontSize=70&animation=twinkling)
 
-![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&text=Clzzi%20👋&fontSize=90)
+<h3 align="center">🛠 Tech Stack 🛠</h3>
 
-<h2 align=center>I want to be a WEB dev</h2>
-
-![Clzzi's github stats](https://github-readme-stats.vercel.app/api?username=Clzzi&show_icons=true&theme=cobalt)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Clzzi&layout=compact)
-
-
-## 🌱 I’m currently learning - "React.Js & MobX"
-
-## 🔭 I learned ..
-### - Html & Css(scss)
-### - C
-### - Vanilla JavaScipt
-
-## ⚡ I want to learn about ...
-### - Vue.Js
-### - Node.Js
-### - TypeScript
-
-<!-- ![Visit](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FClzzi%2Fhit-counter&count_bg=%237B62C3&title_bg=%239D7EDF&icon=electron.svg&icon_color=%23B890DF&title=Visit&edge_flat=false) -->
-
-
-![footer](https://capsule-render.vercel.app/api?section=footer)
+<p align="center">
+  <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/css-1572B6?style=flat-square&logo=css3&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>&nbsp 
+</p>
