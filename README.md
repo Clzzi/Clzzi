@@ -15,7 +15,7 @@
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>&nbsp
 </p>
 
-<h3 align="center"> 📫 Contact Me </h3>
+<h3 align="center"> 📫 Contact </h3>
 <h5 align="center"> 010-9088-2512 </h5>
 <h5 align="center"> clzzi1109@naver.com </h6>
 
