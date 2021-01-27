@@ -2,7 +2,7 @@
 
 <br></br>
 
-![Clzzi's github stats](https://github-readme-stats.vercel.app/api?username=Clzzi&show_icons=true&theme=cobalt)
+![Clzzi's github stats](https://github-readme-stats.vercel.app/api?username=Clzzi&show_icons=true&theme=cobalt&count_private=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Clzzi&layout=compact)
 
 <h3 align="center"> ✌ Tech Stack </h3>
