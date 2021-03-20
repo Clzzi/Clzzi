@@ -14,6 +14,9 @@
   <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logoColor=white&logo=javascript"/>&nbsp 
   <img src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=flat-square&logo=react&logoColor=%2361DAFB"/>&nbsp
   <img src="https://img.shields.io/badge/Typescript-2b90d9?style=flat-square&logo=TypeScript&logoColor=white"/>&nbsp
+  <img src="https://img.shields.io/badge/MobX-7200da?style=flat-square&logo=MobX&logoColor=white"/>&nbsp
+  <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=Redux&logoColor=white"/>&nbsp
+  
 </p>
 
 <h3 align="center"> 📫 Contact </h3>
