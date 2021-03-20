@@ -19,7 +19,7 @@
 <h3 align="center"> 📫 Contact </h3>
 <h5 align="center"> 010-9088-2512 </h5>
 <h5 align="center"> clzzi1109@naver.com </h6>
-<h5 align="center"> <img src="https://img.shields.io/badge/Velog-20c997?style=flat-square&logo=Vimeo&logoColor=white"/></h5>
+<h5 align="center"> <a href="https://velog.io/@jce1407" target="_blank"> <img src="https://img.shields.io/badge/Velog-20c997?style=flat-square&logo=Vimeo&logoColor=white"/> </a> </h5>
 
 <p align="center">
   <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FClzzi&count_bg=%237B62C3&title_bg=%239D7EDF&icon=github.svg&icon_color=%23B890DF&title=hits&edge_flat=false"/></a>
