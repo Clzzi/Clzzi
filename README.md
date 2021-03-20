@@ -1,7 +1,4 @@
 ![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=Clzzi&fontSize=70&animation=twinkling)
-
-<br></br>
-
 ![Clzzi's github stats](https://github-readme-stats.vercel.app/api?username=Clzzi&show_icons=true&theme=cobalt&count_private=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Clzzi&layout=compact)
 
