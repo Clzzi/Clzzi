@@ -11,9 +11,13 @@
   <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logoColor=white&logo=javascript"/>&nbsp 
   <img src="https://img.shields.io/badge/React%20-%2320232a.svg?&style=flat-square&logo=react&logoColor=%2361DAFB"/>&nbsp
   <img src="https://img.shields.io/badge/Typescript-2b90d9?style=flat-square&logo=TypeScript&logoColor=white"/>&nbsp
+  <br/>
   <img src="https://img.shields.io/badge/MobX-7200da?style=flat-square&logo=MobX&logoColor=white"/>&nbsp
   <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=Redux&logoColor=white"/>&nbsp
-  
+  <img src="https://img.shields.io/badge/ReduxSaga-353866?style=flat-square&logo=Redux-Saga&logoColor=white"/>&nbsp
+  <img src="https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=Markdown&logoColor=white"/>&nbsp
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>&nbsp
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>&nbsp
 </p>
 
 <h3 align="center"> 📫 Contact </h3>
