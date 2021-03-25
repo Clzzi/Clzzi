@@ -2,7 +2,7 @@
 ![Clzzi's github stats](https://github-readme-stats.vercel.app/api?username=Clzzi&show_icons=true&theme=cobalt&count_private=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Clzzi&layout=compact)
 
-<h3 align="center"> ✌ Tech Stack </h3>
+<h2 align="center"> ✌ Tech Stack </h2>
 
 <p align="center">
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>&nbsp
@@ -20,7 +20,7 @@
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>&nbsp
 </p>
 
-<h3 align="center"> 📫 Contact </h3>
+<h2 align="center"> 📫 Contact </h2>
 <h5 align="center"> 010-9088-2512 </h5>
 <h5 align="center"> clzzi1109@naver.com </h6>
 <h5 align="center"> <a href="https://velog.io/@jce1407" target="_blank"> <img src="https://img.shields.io/badge/Velog-20c997?style=flat-square&logo=Vimeo&logoColor=white"/> </a> </h5>
