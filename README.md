@@ -20,7 +20,7 @@
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>&nbsp
 </p>
 
-<h2 align="center"> 📫 Contact </h2>
+<h2 align="center"> 📫 ConTact </h2>
 <h5 align="center"> 010-9088-2512 </h5>
 <h5 align="center"> clzzi1109@naver.com </h6>
 <h5 align="center"> <a href="https://velog.io/@jce1407" target="_blank"> <img src="https://img.shields.io/badge/Velog-20c997?style=flat-square&logo=Vimeo&logoColor=white"/> </a> </h5>
