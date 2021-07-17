@@ -41,9 +41,9 @@
   
   ###
   
-  [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=jce1407)](https://github.com/eungyeole/velog-readme-stats)
+  [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=jce1407)](https://velog.io/@jce1407/2021-DGSW-%ED%95%B4%EC%BB%A4%ED%86%A4-%ED%9A%8C%EA%B3%A0%EB%A1%9D)
   
-  [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=jce1407&tag=hooks)](https://github.com/eungyeole/velog-readme-stats)
+  [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=jce1407&tag=hooks)](https://velog.io/@jce1407/%EC%9C%A0%EC%9A%A9%ED%95%9C-URL-Hooks)
   
 </details>
 
