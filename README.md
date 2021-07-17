@@ -39,22 +39,23 @@
 <details open>
    <summary><strong> 💜 Recent Posts </strong></summary>
   
-  ###
-  <div align="center" style="text-align:center">
-
-  [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=jce1407)](https://velog.io/@jce1407/2021-DGSW-%ED%95%B4%EC%BB%A4%ED%86%A4-%ED%9A%8C%EA%B3%A0%EB%A1%9D)
+  <br/>
   
+  <div align="center" style="text-align:center">
+    
+  [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=jce1407)](https://velog.io/@jce1407/2021-DGSW-%ED%95%B4%EC%BB%A4%ED%86%A4-%ED%9A%8C%EA%B3%A0%EB%A1%9D)
   [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=jce1407&tag=hooks)](https://velog.io/@jce1407/%EC%9C%A0%EC%9A%A9%ED%95%9C-URL-Hooks)
-  </div>  
+    
+  </div>
 </details>
 
 <details markdown="1" open >
+  <summary><strong> 💻 Technology </strong></summary>
+  
+  <br/>
 
-<summary><strong> 💻 Technology </strong></summary>
-
-####
-
-<div align="center" style="text-align:center">
+  <div align="center" style="text-align:center">
+  
   <a href="https://github.com/Clzzi/Clzzi">
     <img src=https://img.shields.io/badge/HTML5-%23E34F26.svg?&style=for-the-badge&logo=HTML5&logoColor=white alt=HTML5 />
   </a>
@@ -71,7 +72,7 @@
     <img src=https://img.shields.io/badge/Typescript-%233178C6.svg?&style=for-the-badge&logo=TypeScript&logoColor=white alt=Typescript />
   </a>
   
-<br/>
+  <br/>
 
   <a href="https://github.com/Clzzi/Clzzi">
     <img src=https://img.shields.io/badge/React-%2361DAFB.svg?&style=for-the-badge&logo=React&logoColor=white alt=React />
@@ -93,13 +94,14 @@
     <img src=https://img.shields.io/badge/DocuSaurus-%233ECC5F.svg?&style=for-the-badge&logo=BookStack&logoColor=white alt=DocuSaurus />
   </a>
   
-</div>
+  </div>
 </details>
 
 <details>
   <summary><strong>🎯 Stats </strong></summary>
   
-  ###
+  <br/>
+  
   <div align="center" style="text-align:center">          
     <img src = "https://github-readme-stats.vercel.app/api?username=Clzzi&show_icons=true&theme=algolia&count_private=true&line_height=27&hide_title=true ">
     <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Clzzi&hide=css,html,c,&theme=algolia&langs_count=2&hide_title=true ">
