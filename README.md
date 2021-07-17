@@ -9,7 +9,7 @@
 
 <br/>
 
-<div align="left" style="text-align:left">
+<div align="center" style="text-align:center">
 
   <a href="https://www.instagram.com/clzz._.i/" target="_blank">
     <img src="https://github.com/Clzzi/Clzzi/blob/master/icons/insta.png" alt="instagram" width="64" height="64" />
