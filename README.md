@@ -40,14 +40,15 @@
    <summary><strong> 💜 Recent Posts </strong></summary>
   
   ###
-  
+  <div align="center" style="text-align:center">
+
   [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=jce1407)](https://velog.io/@jce1407/2021-DGSW-%ED%95%B4%EC%BB%A4%ED%86%A4-%ED%9A%8C%EA%B3%A0%EB%A1%9D)
   
   [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=jce1407&tag=hooks)](https://velog.io/@jce1407/%EC%9C%A0%EC%9A%A9%ED%95%9C-URL-Hooks)
-  
+  </div>  
 </details>
 
-<details markdown="1"  >
+<details markdown="1" open >
 
 <summary><strong> 💻 Technology </strong></summary>
 
@@ -99,10 +100,10 @@
   <summary><strong>🎯 Stats </strong></summary>
   
   ###
-          
-  <img src = "https://github-readme-stats.vercel.app/api?username=Clzzi&show_icons=true&theme=algolia&count_private=true&line_height=27&hide_title=true ">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Clzzi&hide=css,html,c,&theme=algolia&langs_count=2&hide_title=true ">
-
+  <div align="center" style="text-align:center">          
+    <img src = "https://github-readme-stats.vercel.app/api?username=Clzzi&show_icons=true&theme=algolia&count_private=true&line_height=27&hide_title=true ">
+    <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Clzzi&hide=css,html,c,&theme=algolia&langs_count=2&hide_title=true ">
+  </div>
 </details>
 
 
