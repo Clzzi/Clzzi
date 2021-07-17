@@ -69,7 +69,8 @@
   <a href="https://github.com/Clzzi/Clzzi">
     <img src=https://img.shields.io/badge/Typescript-%233178C6.svg?&style=for-the-badge&logo=TypeScript&logoColor=white alt=Typescript />
   </a>
-
+  
+<br/>
 
   <a href="https://github.com/Clzzi/Clzzi">
     <img src=https://img.shields.io/badge/React-%2361DAFB.svg?&style=for-the-badge&logo=React&logoColor=white alt=React />
