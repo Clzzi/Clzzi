@@ -89,6 +89,10 @@
   <a href="https://github.com/Clzzi/Clzzi">
     <img src=https://img.shields.io/badge/RECOIL-%231572B6.svg?&style=for-the-badge&logo=Atom&logoColor=white alt=Recoil />
   </a>
+  
+  <a href="https://github.com/Clzzi/Clzzi">
+    <img src=https://img.shields.io/badge/NEXT-%23000000.svg?&style=for-the-badge&logo=Next.js&logoColor=white alt=NEXT />
+  </a>
 
   <a href="https://github.com/Clzzi/Clzzi">
     <img src=https://img.shields.io/badge/DocuSaurus-%233ECC5F.svg?&style=for-the-badge&logo=BookStack&logoColor=white alt=DocuSaurus />
