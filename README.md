@@ -111,7 +111,7 @@
   </div>
 </details>
 
-<details>
+<details open>
   <summary><strong>🎯 Stats </strong></summary>
   
   <br/>
