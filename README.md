@@ -81,6 +81,12 @@
   <a href="https://github.com/Clzzi/Clzzi">
     <img src=https://img.shields.io/badge/Sass-%23CC6699.svg?&style=for-the-badge&logo=Sass&logoColor=white alt=Sass />
   </a>
+  
+  <a href="https://github.com/Clzzi/Clzzi">
+    <img src=https://img.shields.io/badge/DocuSaurus-%233ECC5F.svg?&style=for-the-badge&logo=BookStack&logoColor=white alt=DocuSaurus />
+  </a>
+  
+  <br/>
 
   <a href="https://github.com/Clzzi/Clzzi">
     <img src=https://img.shields.io/badge/MobX-%23FF9955.svg?&style=for-the-badge&logo=MobX&logoColor=white alt=MobX />
@@ -93,9 +99,13 @@
   <a href="https://github.com/Clzzi/Clzzi">
     <img src=https://img.shields.io/badge/NEXT-%23000000.svg?&style=for-the-badge&logo=Next.js&logoColor=white alt=NEXT />
   </a>
-
+  
   <a href="https://github.com/Clzzi/Clzzi">
-    <img src=https://img.shields.io/badge/DocuSaurus-%233ECC5F.svg?&style=for-the-badge&logo=BookStack&logoColor=white alt=DocuSaurus />
+    <img src=https://img.shields.io/badge/StyledComponents-%23DB7093.svg?&style=for-the-badge&logo=styled-components&logoColor=white alt=Styled-Components />
+  </a>
+  
+  <a href="https://github.com/Clzzi/Clzzi">
+    <img src=https://img.shields.io/badge/SWR-%23000000.svg?&style=for-the-badge&logo=Vercel&logoColor=white alt=SWR />
   </a>
   
   </div>
