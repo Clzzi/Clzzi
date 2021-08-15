@@ -101,7 +101,7 @@
   </a>
   
   <a href="https://github.com/Clzzi/Clzzi">
-    <img src=https://img.shields.io/badge/StyledComponents-%23DB7093.svg?&style=for-the-badge&logo=styled-components&logoColor=white alt=Styled-Components />
+    <img src=https://img.shields.io/badge/Emotion-%23DB7093.svg?&style=for-the-badge&logo=styled-components&logoColor=white alt=Emotion />
   </a>
   
   <a href="https://github.com/Clzzi/Clzzi">
