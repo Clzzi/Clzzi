@@ -108,6 +108,20 @@
     <img src=https://img.shields.io/badge/SWR-%23000000.svg?&style=for-the-badge&logo=Vercel&logoColor=white alt=SWR />
   </a>
   
+  <br/>
+  
+  <a href="https://github.com/Clzzi/Clzzi">
+    <img src=https://img.shields.io/badge/Nodejs-%23339933.svg?&style=for-the-badge&logo=Node.js&logoColor=white alt=NODEJS />
+  </a>
+  
+  <a href="https://github.com/Clzzi/Clzzi">
+    <img src=https://img.shields.io/badge/Express-%23000000.svg?&style=for-the-badge&logo=Express&logoColor=white alt=Express />
+  </a>
+  
+  <a href="https://github.com/Clzzi/Clzzi">
+    <img src=https://img.shields.io/badge/TYPEORM-%2352B0E7.svg?&style=for-the-badge&logo=Sequelize&logoColor=white alt=TYPEORM />
+  </a>
+  
   </div>
 </details>
 
