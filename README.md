@@ -49,7 +49,7 @@
   </div>
 </details>
 
-<details markdown="1" open >
+<!-- <details markdown="1" open >
   <summary><strong> 💻 Technology </strong></summary>
   
   <br/>
@@ -140,3 +140,4 @@
 
 
 
+ -->
