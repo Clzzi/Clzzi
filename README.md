@@ -43,7 +43,7 @@
   
   <div align="center" style="text-align:center">
     
-  [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=jce1407)](https://velog.io/@jce1407/React-%EB%AC%B4%ED%95%9C-%EC%8A%A4%ED%81%AC%EB%A1%A4-%EA%B5%AC%ED%98%84%ED%95%98%EA%B8%B0-with-Intersection-Observer)
+  [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=jce1407)](https://velog.io/@jce1407/WebpackStudy)
   [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=jce1407&tag=hooks)](https://velog.io/@jce1407/%EC%9C%A0%EC%9A%A9%ED%95%9C-URL-Hooks)
     
   </div>
