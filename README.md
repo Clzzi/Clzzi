@@ -11,17 +11,17 @@
 
 <div align="center" style="text-align:center">
 
-  <a href="https://www.instagram.com/clzz._.i/" target="_blank">
+  <a href="https://www.instagram.com/clzzi.dev" target="_blank">
     <img src="https://github.com/Clzzi/Clzzi/blob/master/icons/insta.png" alt="instagram" width="64" height="64" />
   </a>
 
-  <a href="https://www.facebook.com/profile.php?id=100012188109312" target="_blank">
+<!--   <a href="https://www.facebook.com/profile.php?id=100012188109312" target="_blank">
     <img src="https://github.com/Clzzi/Clzzi/blob/master/icons/facebook.png" alt="facebook" width="64" height="64" />
-  </a>
+  </a> -->
 
-  <a href="https://github.com/clzzi" target="_blank">
+<!--   <a href="https://github.com/clzzi" target="_blank">
     <img src="https://github.com/Clzzi/Clzzi/blob/master/icons/github.png" alt="github" width="64" height="64" />
-  </a>
+  </a> -->
   
   <a href="https://www.rocketpunch.com/@clzzi1109" target="_blank">
     <img src="https://github.com/Clzzi/Clzzi/blob/master/icons/rocket.png" alt="rocketpunch" width="64" height="64" />
