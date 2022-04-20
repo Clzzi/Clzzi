@@ -42,7 +42,7 @@
   
 <div align="center" style="text-align:center"> 
   
-  [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=jce1407)](https://velog.io/@jce1407/2021.Clzzi.log)
+  [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=jce1407)](https://velog.io/@jce1407/%EA%B7%B8%EB%A3%B9%EB%B0%94%EC%9D%B4-%EC%9D%B8%ED%84%B4%EC%89%BD)
   [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=jce1407&tag=hooks)](https://velog.io/@jce1407/%EC%9C%A0%EC%9A%A9%ED%95%9C-URL-Hooks)
   
 </div>
