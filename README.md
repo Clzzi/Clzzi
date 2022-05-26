@@ -23,10 +23,6 @@
     <img src="https://github.com/Clzzi/Clzzi/blob/master/icons/github.png" alt="github" width="64" height="64" />
   </a> -->
   
-  <a href="https://www.rocketpunch.com/@clzzi1109" target="_blank">
-    <img src="https://github.com/Clzzi/Clzzi/blob/master/icons/rocket.png" alt="rocketpunch" width="64" height="64" />
-  </a>
-  
   <a href="https://velog.io/@jce1407" target="_blank">
     <img src="https://github.com/Clzzi/Clzzi/blob/master/icons/velog.png" alt="velog" width="64" height="64" />
   </a>
