@@ -1,137 +1,16 @@
-<a href="https://github.com/clzzi">
-  <img alt="Hi, I'm Clzzi" src="https://github.com/Clzzi/Clzzi/blob/master/images/logo.png" width="800 "/>
-</a>
-
-###
-
-> **편리한 세상**을 만들고픈 개발자 **손민재** 입니다 <br/>
+### 반갑습니다, 저는 웹 프론트엔드 개발자 손민재 입니다.
 > 대구 소프트웨어 마이스터 고등학교 재학중 `2020.03 - 2023.03`
+- 서비스를 **기획 / 개발 / 배포 / 운영** 해본 경험이 있으며, 
+- 교내 스마트 스쿨 플랫폼 개발팀 [B1ND](https://github.com/Team-B1ND)에서 다수의 팀 프로젝트를 통해 **협업 및 커뮤니케이션에 능숙**합니다.
+- **기술과 사람을 이어주는 가장 밀접한 개발자**가 프론트엔드 개발자라고 생각하며, 
+- 서비스를 이용하는 유저들이 **긍정적인 경험만 남길 수 있도록** 서비스를 개발하고 싶습니다.
 
 <br/>
 
-<div align="center" style="text-align:center">
+**Contact**
+- [Instagram](https://www.instagram.com/clzzi.dev)
+- [Blog](https://velog.io/@jce1407)
 
-  <a href="https://www.instagram.com/clzzi.dev" target="_blank">
-    <img src="https://github.com/Clzzi/Clzzi/blob/master/icons/insta.png" alt="instagram" width="64" height="64" />
-  </a>
+**Recent Post**
+- [Axios Interceptor에서 Hook을 사용하는 방법](https://velog.io/@jce1407/Axios-Interceptor%EC%97%90%EC%84%9C-Hook%EC%9D%84-%EC%82%AC%EC%9A%A9%ED%95%98%EB%8A%94-%EB%B0%A9%EB%B2%95)
 
-<!--   <a href="https://www.facebook.com/profile.php?id=100012188109312" target="_blank">
-    <img src="https://github.com/Clzzi/Clzzi/blob/master/icons/facebook.png" alt="facebook" width="64" height="64" />
-  </a> -->
-
-<!--   <a href="https://github.com/clzzi" target="_blank">
-    <img src="https://github.com/Clzzi/Clzzi/blob/master/icons/github.png" alt="github" width="64" height="64" />
-  </a> -->
-  
-  <a href="https://velog.io/@jce1407" target="_blank">
-    <img src="https://github.com/Clzzi/Clzzi/blob/master/icons/velog.png" alt="velog" width="64" height="64" />
-  </a>
-  
-</div>
-
----
-
-
-<strong> 📖 Recent Posts </strong>
-  
-  <br/>
-  
-<div align="center" style="text-align:center"> 
-  
-  [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=jce1407)](https://velog.io/@jce1407/Axios-Interceptor%EC%97%90%EC%84%9C-Hook%EC%9D%84-%EC%82%AC%EC%9A%A9%ED%95%98%EB%8A%94-%EB%B0%A9%EB%B2%95)
-  [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=jce1407&tag=hooks)](https://velog.io/@jce1407/%EC%9C%A0%EC%9A%A9%ED%95%9C-URL-Hooks)
-  
-</div>
-
-<!-- <details markdown="1" open >
-  <summary><strong> 💻 Technology </strong></summary>
-  
-  <br/>
-
-  <div align="center" style="text-align:center">
-  
-  <a href="https://github.com/Clzzi/Clzzi">
-    <img src=https://img.shields.io/badge/HTML5-%23E34F26.svg?&style=for-the-badge&logo=HTML5&logoColor=white alt=HTML5 />
-  </a>
-
-  <a href="https://github.com/Clzzi/Clzzi">
-    <img src=https://img.shields.io/badge/CSS3-%231572B6.svg?&style=for-the-badge&logo=CSS3&logoColor=white alt=CSS3 />
-  </a>
-
-  <a href="https://github.com/Clzzi/Clzzi">
-    <img src=https://img.shields.io/badge/Javascript-%23F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=white alt=Javascript />
-  </a>
-
-  <a href="https://github.com/Clzzi/Clzzi">
-    <img src=https://img.shields.io/badge/Typescript-%233178C6.svg?&style=for-the-badge&logo=TypeScript&logoColor=white alt=Typescript />
-  </a>
-  
-  <br/>
-
-  <a href="https://github.com/Clzzi/Clzzi">
-    <img src=https://img.shields.io/badge/React-%2361DAFB.svg?&style=for-the-badge&logo=React&logoColor=white alt=React />
-  </a>
-
-  <a href="https://github.com/Clzzi/Clzzi">
-    <img src=https://img.shields.io/badge/Sass-%23CC6699.svg?&style=for-the-badge&logo=Sass&logoColor=white alt=Sass />
-  </a>
-  
-  <a href="https://github.com/Clzzi/Clzzi">
-    <img src=https://img.shields.io/badge/DocuSaurus-%233ECC5F.svg?&style=for-the-badge&logo=BookStack&logoColor=white alt=DocuSaurus />
-  </a>
-  
-  <br/>
-
-  <a href="https://github.com/Clzzi/Clzzi">
-    <img src=https://img.shields.io/badge/MobX-%23FF9955.svg?&style=for-the-badge&logo=MobX&logoColor=white alt=MobX />
-  </a>
-
-  <a href="https://github.com/Clzzi/Clzzi">
-    <img src=https://img.shields.io/badge/RECOIL-%231572B6.svg?&style=for-the-badge&logo=Atom&logoColor=white alt=Recoil />
-  </a>
-  
-  <a href="https://github.com/Clzzi/Clzzi">
-    <img src=https://img.shields.io/badge/NEXT-%23000000.svg?&style=for-the-badge&logo=Next.js&logoColor=white alt=NEXT />
-  </a>
-  
-  <a href="https://github.com/Clzzi/Clzzi">
-    <img src=https://img.shields.io/badge/Emotion-%23DB7093.svg?&style=for-the-badge&logo=styled-components&logoColor=white alt=Emotion />
-  </a>
-  
-  <a href="https://github.com/Clzzi/Clzzi">
-    <img src=https://img.shields.io/badge/SWR-%23000000.svg?&style=for-the-badge&logo=Vercel&logoColor=white alt=SWR />
-  </a>
-  
-  <br/>
-  
-  <a href="https://github.com/Clzzi/Clzzi">
-    <img src=https://img.shields.io/badge/Nodejs-%23339933.svg?&style=for-the-badge&logo=Node.js&logoColor=white alt=NODEJS />
-  </a>
-  
-  <a href="https://github.com/Clzzi/Clzzi">
-    <img src=https://img.shields.io/badge/Express-%23000000.svg?&style=for-the-badge&logo=Express&logoColor=white alt=Express />
-  </a>
-  
-  <a href="https://github.com/Clzzi/Clzzi">
-    <img src=https://img.shields.io/badge/TYPEORM-%2352B0E7.svg?&style=for-the-badge&logo=Sequelize&logoColor=white alt=TYPEORM />
-  </a>
-  
-  </div>
-</details>
-
-<details open>
-  <summary><strong>🎯 Stats </strong></summary>
-  
-  <br/>
-  
-  <div align="center" style="text-align:center">          
-    <img src = "https://github-readme-stats.vercel.app/api?username=Clzzi&show_icons=true&theme=algolia&count_private=true&line_height=27&hide_title=true ">
-    <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Clzzi&hide=css,html,c,&theme=algolia&langs_count=2&hide_title=true ">
-  </div>
-</details>
-
-
-
-
-
- -->
