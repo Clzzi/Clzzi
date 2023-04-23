@@ -11,6 +11,5 @@
 
 **Contact**
 - [Instagram](https://www.instagram.com/clzzi.dev)
-- [Blog](https://velog.io/@jce1407)
 - clzzi1109@naver.com
 
